@@ -12,7 +12,9 @@
 
 > **An advanced and elegant online code editor supporting multiple programming languages. Built with React.js & Monaco Editor for a seamless coding experience.** 🚀💻
 
+<!--
 ![Editor Preview](https://your-image-link.com)
+-->
 
 ---
 
